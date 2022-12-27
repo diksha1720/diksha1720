@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 # 💫 About Me:
 Hi, I am Diksha Bharti, I am a software developer. I love to learn by implementation. Restricting myself by being language oriented is not something that I believe in, rather I believe picking up (or learning) a language is easy as long as you have a strong understanding of the roots of software development like planning, logical understanding, high level and low level design.<br><br>Talking about the things that I am skilled in, I have 1+ years of experience in software development. My interest lies in Decentralised Finance, Blockchain development. I have also worked in public EVM based chains like Ethereum & Polygon.<br><br>I am an expert in solidity for smart contract development and have also done smart contract auditing. <br>When it comes to  web development, I have knowledge in backend technologies like Node.js, Python, Django framework. My expertise lies in frontend technologies as well like React.js.<br>
