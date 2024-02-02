@@ -17,12 +17,6 @@ Hi, I am Diksha Bharti, I am a software developer. I love to learn by implementa
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=diksha1720&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=diksha1720&icon=7&color=0)](https://visitcount.itsvg.in)
 
